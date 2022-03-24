@@ -1,5 +1,6 @@
 * 2 tbsp cilantro
 * 2 avocados
+<<<<<<< HEAD
 * 2 lime
 * 1 tsp salt
 * oh my god
